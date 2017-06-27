@@ -12,6 +12,8 @@ public class BuiltInFunctions {
 		
 		//Attempting to create a branch and pulling the changes into it
 		
+		//Will the attempt to directly to head branch
+		
 		String [] sample = {"Juve","Barca","Iniesta"};
 		String str= Arrays.toString(sample);
 		System.out.println(str);
